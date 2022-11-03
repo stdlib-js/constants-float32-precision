@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-precision@deno/mod.js';
+import FLOAT32_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-precision@v0.0.8-deno/mod.js';
 ```
 
 #### FLOAT32_PRECISION
@@ -56,7 +56,7 @@ var bool = ( FLOAT32_PRECISION === 24 ); // including implicit bit
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-precision@deno/mod.js';
+import FLOAT32_PRECISION from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-precision@v0.0.8-deno/mod.js';
 
 console.log( FLOAT32_PRECISION );
 // => 24
